@@ -1,4 +1,4 @@
-import main.ListaTarefas;
+package lista;
 
 public class App extends ListaTarefas{
     public static void main(String[] args) throws Exception {

@@ -1,4 +1,4 @@
-package main;
+package lista;
 
 import java.util.ArrayList;
 import java.util.List;
