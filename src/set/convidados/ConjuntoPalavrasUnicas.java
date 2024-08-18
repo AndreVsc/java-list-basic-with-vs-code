@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class ConjuntoPalavrasUnicas {
-  //atributos
+  
   private Set<String> palavrasUnicasSet;
 
   public ConjuntoPalavrasUnicas() {

@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.Objects;
 
 public class Aluno implements Comparable<Aluno>{
-  //atributos
+  
   private String nome;
   private Long matricula;
   private double media;
